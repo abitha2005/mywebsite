@@ -1,0 +1,56 @@
+
+body{
+    background-image:url(https://getwallpapers.com/wallpaper/full/e/8/5/719190-gorgerous-beautiful-background-images-1920x1200-for-iphone-7.jpg) ;
+}
+.sign-up-container {
+    background-color: #34c8db;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .sign-up-container h2 {
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 12px;
+    background-color: #40cc2e;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #27ae60;
+  }
+  
